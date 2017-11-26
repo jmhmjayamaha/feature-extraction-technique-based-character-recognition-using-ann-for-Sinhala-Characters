@@ -1,4 +1,11 @@
 # feature-extraction-technique-based-character-recognition-using-ann-for-Sinhala-Characters
+## Used technologies
+- MatLab
+- Image processing toolbox
+- Neural Network toolbox
+- pattern recognition
+
+## How to run this application
 
 - run the create_target_metrics.m, this will create the y matrics. one character have 25 different sampels.so 25 * 34 = 850 samples in the training_set folder.
  you can change this according to your program.
